@@ -2,44 +2,44 @@
 # 数据类型要保持一致
 
 # 判断是否相等用==
-# a = 5
-# b = 5
-# print(a == b)
+a = 5
+b = 5
+print(a == b)
 
 # 判断是否不相等用!=
-# a= 5
-# b = 6
-# print(a != b)
+c= 5
+d = 6
+print(c != d)
 
 # 判断大于用>
-# a = 5
-# b = 6
-# print(a > b)
+e = 5
+f = 6
+print(e > f)
 
 # 判断小于用<
-# a = 5
-# b = 6
-# print(a < b)
+g = 5
+h = 6
+print(g < h)
 
 # 判断大于等于用>=
-# a = 7
-# b = 6
-# print(a >= b)
+i = 7
+j = 6
+print(i >= j)
 
 # 判断小于等于用<=
-# a = 5
-# b = 6
-# print(a <= b)
+k = 5
+l = 6
+print(k <= l)
 
 # 以上比较运算符对于字符串也适用
-# a = 'abc'
-# b = 'abc'
-# print(a == b)
+m = 'abc'
+n = 'abc'
+print(m == n)
 
 # 判断大小用unicode编码来判断
 # 查看unicode编码用ord()，但里面的内容用单个字符
-# a = '我'
-# b = '中国'
-# # ord('我')
-# print(ord('我'))
-# print(a > b)
+o = '我'
+p = '中国'
+# ord('我')
+print(ord('我'))
+print(o > p)
